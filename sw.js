@@ -1,6 +1,6 @@
 /* Service worker: caché de la app para uso sin conexión y actualizaciones controladas.
    Para publicar una versión nueva: cambiá CACHE (y APP_VERSION dentro de index.html). */
-const CACHE = 'gym-coach-v1.0.0';
+const CACHE = 'gym-coach-v1.1.0';
 const ASSETS = [
   './', './index.html', './manifest.webmanifest', './icon-192.png', './icon-512.png',
   './icon-maskable-512.png', './apple-touch-icon.png', './splash-1320x2868.png', './splash-1290x2796.png'
